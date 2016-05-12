@@ -38,7 +38,7 @@
         double result = enteredValue * self.chiTax;
         self.resultLabel.text = [NSString stringWithFormat:@"$%.2f", result];
     }
-    //Joker
+    //Joker 2
 }
 
 - (void)viewDidLoad {
